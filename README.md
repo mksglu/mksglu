@@ -2,6 +2,12 @@
 
 I am a full-stack JavaScript developer living in Ankara, Turkey. I've been developing software for seven years, and I've been blogging to share what I've learned. JavaScript React, Node.js, TypeScript and MongoDB, PostgreSQL
 
+* bm.ksglu@gmail.com
+* https://mksg.lu
+* https://www.linkedin.com/in/mksglu/
+
+
+
 <!--
 **mksglu/mksglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
